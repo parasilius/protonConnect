@@ -3,5 +3,5 @@
 connection. In the first try it tries to connect to the fastest server 
 available and in the following tries a random server.
 
-- [ ] A better approach would be trying to connect to the fastest server in 
-case of a first run and failure in $k$(say 2 or 3) tries.
+- [ ] a better approach would be trying to connect to the fastest server in 
+case of a first failed run and failure in $k$(say 2 or 3) tries.
